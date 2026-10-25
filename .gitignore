@@ -216,3 +216,6 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# OpenAlex API key used by build_dataset.py
+.openalex_key

@@ -1,0 +1,12 @@
+topic_id,topic_label,top_terms,n_papers,n_papers_fsr,n_papers_fpr,n_papers_jfcp
+0,Retirement Planning,"retirement, saving, retirement saving, plan, retirement planning, age, social security, pension, income, retiree",88,45,3,40
+1,Mutual Funds,"fund, mutual, mutual fund, performance, return, investor, fund performance, expense, ratio, mutual fund performance",82,74,1,7
+2,Financial Literacy,"literacy, financial literacy, knowledge, financial education, education, financial knowledge, program, education financial, confidence, literacy financial",90,35,9,46
+3,Risk Tolerance,"risk, tolerance, risk tolerance, financial risk, financial risk tolerance, measure, investment, aversion, assessment, risk taking",73,30,7,36
+4,Credit and Debt,"credit, card, credit card, debt, consumer, credit card debt, card debt, payment, use, cash",44,19,1,24
+5,Portfolio Investment,"portfolio, stock, investor, market, asset, investment, allocation, return, bond, risk",196,166,11,19
+6,Household Finance,"household, consumer, survey consumer finance, survey consumer, consumer finance, income, finance, insurance, survey, life",198,58,3,137
+7,Financial Advice,"financial planning, planner, financial planner, planning, advice, advisor, client, professional, financial advice, certified",152,65,59,28
+8,Student Finance,"student, college, college student, loan, student loan, course, education, personal, finance, debt",95,35,1,59
+9,Financial Behaviour,"behavior, financial behavior, satisfaction, management, socialization, adult, financial management, knowledge, family, financial socialization",262,35,13,214
+10,Tax and Retirement Accounts,"tax, ira, withdrawal, rate, account, mortgage, roth, taxable, tax rate, roth ira",80,63,3,14
