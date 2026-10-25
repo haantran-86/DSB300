@@ -24,7 +24,6 @@ data/
 notebook/                            one notebook per question (see above)
 build_dataset.py                     builds the Question A tables from the Scopus export and OpenAlex
 DATA.md                              how the Question A tables were collected and constructed, column by column
-DSB300 Projects 2026.pdf             project brief
 ```
 
 ## Running the code
