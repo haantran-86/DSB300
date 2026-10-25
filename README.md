@@ -9,9 +9,7 @@ The project asks how *Financial Services Review* (FSR) can attract more citation
 | A | Are citations concentrated among a few prolific or well-known authors, and does an author's track record predict how their FSR articles perform? | `notebook/question_A_star_authors.ipynb` |
 | B | Which research topics are associated with more citations, and where is FSR under-represented? | `notebook/question_B_topic_modelling.ipynb` |
 | C | Is abstract readability associated with citations? | `notebook/question_C_readability.ipynb` |
-| D | When do citations peak, and which articles become high hitters? | `notebook/analysis_question_D.ipynb` |
-
-`analysis.ipynb`, `analysis_v2.ipynb`, `analysis_v3.ipynb` and `analysis_final.ipynb` in `notebook/` are other versions of the Question D analysis.
+| D | When do citations peak, and which articles become high hitters? | `notebook/question_D_citation_trajectories.ipynb` |
 
 ## Repository layout
 
